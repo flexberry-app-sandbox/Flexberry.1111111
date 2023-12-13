@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "111111",
+  "applicationTitle": "111111",
+  "items": [
+    {
+      "link": null,
+      "menuName": "111111",
+      "caption": "111111",
+      "title": "111111",
+      "children": [
+        {
+          "link": "i-i-s-111111-отчет-о-зак-l",
+          "menuName": null,
+          "caption": "Отчет о зак",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-111111-заказ-пост-l",
+          "menuName": null,
+          "caption": "Заказ пост",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-111111-организации-l",
+          "menuName": null,
+          "caption": "Организации",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-111111-единицы-измер-l",
+          "menuName": null,
+          "caption": "Единицы измер",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-111111-план-закупок-l",
+          "menuName": null,
+          "caption": "План закупок",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-111111-склады-l",
+          "menuName": null,
+          "caption": "Склады",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-111111-номенклатура-l",
+          "menuName": null,
+          "caption": "Номенклатура",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-111111-контрагенты-l",
+          "menuName": null,
+          "caption": "Контрагенты",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
